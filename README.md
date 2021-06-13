@@ -2,6 +2,7 @@
 The purpose of this project is to notify the availability of vaccines at the specified disctrict in India.
 It uses the APIs of the CoWIN website to access this information.
 The vaccine availability is periodically checked and once available, it is notified via desktop notifications.
+
 The following parameters can be set to track the vaccine:
 
 * MAX_ATTEMPTS : Maximum Number of Attempts on the COWIN Site 
